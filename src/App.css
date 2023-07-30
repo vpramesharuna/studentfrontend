@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.btncolor{
+    color: blue;
+    text-align: right;
+}
+
+.sideText {
+  font-size: larger;
+  font-weight: bold;
+}
+.depbutton{
+  text-align: right;
+}
+.root{
+  height: 100vh;
+  width: 98%;
+}
